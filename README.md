@@ -1,4 +1,4 @@
-# simple-PDF-file-
+# simple PDF file
 
 **Privacy Policy**
 
